@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 07c352be44ff17c419a258de3fc3ff38
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: faca:_UNKNOWN_REF_NODE_fosterParent1
+    100004: faca:imagePlane1
+    100006: faca:polySurface1
+    100008: humanBody
+    100010: ikHandle1
+    100012: ikHandle2
+    100014: ikHandle5
+    100016: ikHandle6
+    100018: joint1
+    100020: joint10
+    100022: joint10 1
+    100024: joint10 2
+    100026: joint10 3
+    100028: joint10 4
+    100030: joint10 5
+    100032: joint10 6
+    100034: joint10 7
+    100036: joint11
+    100038: joint11 1
+    100040: joint12
+    100042: joint12 1
+    100044: joint13
+    100046: joint13 1
+    100048: joint15
+    100050: joint15 1
+    100052: joint16
+    100054: joint2
+    100056: joint3
+    100058: joint3 1
+    100060: joint4
+    100062: joint4 1
+    100064: joint5
+    100066: joint5 1
+    100068: joint6
+    100070: joint6 1
+    100072: joint7
+    100074: joint7 1
+    100076: joint8
+    100078: joint8 1
+    100080: joint8 2
+    100082: joint8 3
+    100084: joint8 4
+    100086: joint8 5
+    100088: joint8 6
+    100090: joint8 7
+    100092: joint9
+    100094: joint9 1
+    100096: joint9 2
+    100098: joint9 3
+    100100: joint9 4
+    100102: joint9 5
+    100104: joint9 6
+    100106: joint9 7
+    100108: softMod1Handle
+    400000: //RootNode
+    400002: faca:_UNKNOWN_REF_NODE_fosterParent1
+    400004: faca:imagePlane1
+    400006: faca:polySurface1
+    400008: humanBody
+    400010: ikHandle1
+    400012: ikHandle2
+    400014: ikHandle5
+    400016: ikHandle6
+    400018: joint1
+    400020: joint10
+    400022: joint10 1
+    400024: joint10 2
+    400026: joint10 3
+    400028: joint10 4
+    400030: joint10 5
+    400032: joint10 6
+    400034: joint10 7
+    400036: joint11
+    400038: joint11 1
+    400040: joint12
+    400042: joint12 1
+    400044: joint13
+    400046: joint13 1
+    400048: joint15
+    400050: joint15 1
+    400052: joint16
+    400054: joint2
+    400056: joint3
+    400058: joint3 1
+    400060: joint4
+    400062: joint4 1
+    400064: joint5
+    400066: joint5 1
+    400068: joint6
+    400070: joint6 1
+    400072: joint7
+    400074: joint7 1
+    400076: joint8
+    400078: joint8 1
+    400080: joint8 2
+    400082: joint8 3
+    400084: joint8 4
+    400086: joint8 5
+    400088: joint8 6
+    400090: joint8 7
+    400092: joint9
+    400094: joint9 1
+    400096: joint9 2
+    400098: joint9 3
+    400100: joint9 4
+    400102: joint9 5
+    400104: joint9 6
+    400106: joint9 7
+    400108: softMod1Handle
+    4300000: humanBody
+    4300002: faca:polySurface1
+    7400000: Take 001
+    7400002: knife_Walk
+    7400004: knife_Run
+    7400006: knife_Atk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: faca:polySurface1
+    13700002: humanBody
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: knife_Walk
+      takeName: Take 001
+      firstFrame: 16
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: knife_Run
+      takeName: Take 001
+      firstFrame: 46
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: knife_Atk
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 94
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
